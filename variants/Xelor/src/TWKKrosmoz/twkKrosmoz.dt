@@ -1,0 +1,11 @@
+﻿<theme>
+    <name>Krosmoz_TWK</name>
+    <skinType>1</skinType>
+    <description>[BETA] ATTENTION, installer le thème avec d'appliquer cette variant. Ajoute des éléments 'Xelor' au thème Krosmoz</description>
+    <previewUri>Preview.jpg</previewUri>
+  	<author>TWK</author>
+  	<version>0.0.1</version>
+  	<dofusVersion>2.62</dofusVersion>
+    <creationDate>01/11/2021</creationDate>
+    <modificationDate>28/11/2021</modificationDate>
+</theme>
