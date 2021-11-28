@@ -6,8 +6,8 @@
         "version" : "0.0.1", 
         "dofusVersion" : "2.62", 
         "description" : "[BETA] Theme inspire du Krosmoz proposant des variantes", 
-        "url" : "https://github.com/3-Twk/Dofus-interfaces/interfaces/Krosmoz/TWKKrosmoz.zip", 
-        "previewUrl" : "https://github.com/3-Twk/Dofus-interfaces/interfaces/Krosmoz/src/TWKKrosmoz/bitmap/Preview.jpg", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/Krosmoz/TWKKrosmoz.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/Krosmoz/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "01/11/2021", 
         "modificationDate" : "27/11/2021" 
     },
@@ -19,8 +19,8 @@
         "version" : "0.0.1", 
         "dofusVersion" : "2.62", 
         "description" : "[BETA] ATTENTION, installer le thème avec d'appliquer cette variant. Ajoute des éléments 'Xelor' au thème Krosmoz", 
-        "url" : https://github.com/3-Twk/Dofus-interfaces/variants/Xelor/TWKKrosmoz.zip", 
-        "previewUrl" : "https://github.com/3-Twk/Dofus-interfaces/variants/Xelor/src/TWKKrosmoz/bitmap/Preview.jpg", 
+        "url" : https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Xelor/TWKKrosmoz.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Xelor/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "01/11/2021", 
         "modificationDate" : "28/11/2021" 
     }
