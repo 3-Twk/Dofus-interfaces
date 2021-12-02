@@ -3,13 +3,13 @@
         "author" : "TWK", 
         "name" : "Krosmoz_TWK", 
         "keyWords" : "krosmoz, interface", 
-        "version" : "0.0.1", 
+        "version" : "0.0.2", 
         "dofusVersion" : "2.62", 
         "description" : "[BETA] Theme inspire du Krosmoz proposant des variantes", 
         "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/Krosmoz/TWKKrosmoz.zip", 
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/Krosmoz/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "01/11/2021", 
-        "modificationDate" : "27/11/2021" 
+        "modificationDate" : "02/12/2021" 
     },
 	
 	{ 
