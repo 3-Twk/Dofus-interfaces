@@ -1,0 +1,11 @@
+﻿<theme>
+    <name>TakTik_TWK</name>
+    <skinType>1</skinType>
+    <description>ATTENTION, installer le thème avec d'appliquer cette variante. Ajoute des éléments 'Brakmarien' au thème TakTik</description>
+    <previewUri>Preview.jpg</previewUri>
+	<author>TWK</author>
+	<version>3.0.0</version>
+	<dofusVersion>2.62</dofusVersion>
+    <creationDate>20/03/2017</creationDate> 
+    <modificationDate>03/12/2021</modificationDate>
+</theme>

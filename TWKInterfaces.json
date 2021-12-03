@@ -31,7 +31,7 @@
         "keyWords" : "krosmoz, variante, bonta", 
         "version" : "0.0.1", 
         "dofusVersion" : "2.62", 
-        "description" : "[BETA] ATTENTION, installer le thème avec d'appliquer cette variant. Ajoute des éléments 'Bonta' au thème Krosmoz", 
+        "description" : "[BETA] ATTENTION, installer le thème avant d'appliquer cette variante. Ajoute des éléments 'Bonta' au thème Krosmoz", 
         "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Bonta/TWKKrosmoz.zip", 
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Bonta/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "29/11/2021", 
@@ -44,10 +44,50 @@
         "keyWords" : "krosmoz, variante, brakmar", 
         "version" : "0.0.1", 
         "dofusVersion" : "2.62", 
-        "description" : "[BETA] ATTENTION, installer le thème avec d'appliquer cette variant. Ajoute des éléments 'Brakmar' au thème Krosmoz", 
+        "description" : "[BETA] ATTENTION, installer le thème avant d'appliquer cette variante. Ajoute des éléments 'Brakmar' au thème Krosmoz", 
         "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Brakmar/TWKKrosmoz.zip", 
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Brakmar/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "29/11/2021", 
         "modificationDate" : "01/12/2021" 
+    },
+	
+	{ 
+        "author" : "TWK", 
+        "name" : "TakTik_TWK", 
+        "keyWords" : ", interface", 
+        "version" : "3.0.0", 
+        "dofusVersion" : "2.62", 
+        "description" : "[BETA] Un thème simpliste basé sur le mode tactique", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/TakTik/TWKTakTik.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/TakTik/src/TWKTakTik/bitmap/Preview.jpg", 
+        "creationDate" : "20/03/2017", 
+        "modificationDate" : "03/12/2021" 
+    },
+	
+	{ 
+        "author" : "TWK", 
+        "name" : "TakTik_TWK__Bonta", 
+        "keyWords" : "taktik, variante, bonta", 
+        "version" : "0.0.1", 
+        "dofusVersion" : "2.62", 
+        "description" : "[BETA] ATTENTION, installer le thème avant d'appliquer cette variante. Ajoute des éléments 'Bonta' au thème TakTik", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Bonta/TWKTakTik.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Bonta/src/TWKTakTik/bitmap/Preview.jpg", 
+        "creationDate" : "03/12/2021", 
+        "modificationDate" : "03/12/2021" 
+    },
+	
+	{ 
+        "author" : "TWK", 
+        "name" : TakTik_TWK__Brakmar", 
+        "keyWords" : "taktik, variante, brakmar", 
+        "version" : "0.0.1", 
+        "dofusVersion" : "2.62", 
+        "description" : "[BETA] ATTENTION, installer le thème avant d'appliquer cette variante. Ajoute des éléments 'Brakmar' au thème TakTik", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Brakmar/TWKTakTik.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Brakmar/src/TWKTakTik/bitmap/Preview.jpg", 
+        "creationDate" : "03/12/2021", 
+        "modificationDate" : "03/12/2021" 
     }
+
 ]
