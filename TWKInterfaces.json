@@ -49,6 +49,32 @@
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Brakmar/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "29/11/2021", 
         "modificationDate" : "04/12/2021"
+    },
+	
+	{ 
+        "author" : "TWK", 
+        "name" : "Krosmoz_TWK__Tactimod_dark", 
+        "keyWords" : "krosmoz, tactique, dark", 
+        "version" : "tacticmoddark", 
+        "dofusVersion" : "2.62", 
+        "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Change le mode tactique par un mode dark", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/tacticmods/Dark/TWKKrosmoz.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/tacticmods/Dark/src/TWKKrosmoz/bitmap/Preview.jpg", 
+        "creationDate" : "10/12/2021", 
+        "modificationDate" : "10/12/2021" 
+    },
+	
+	{ 
+        "author" : "TWK", 
+        "name" : "Krosmoz_TWK__Tactimod_light", 
+        "keyWords" : "krosmoz, tactique, light", 
+        "version" : "tacticmodlight", 
+        "dofusVersion" : "2.62", 
+        "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Change le mode tactique par un mode light", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/tacticmods/Light/TWKKrosmoz.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/tacticmods/Light/src/TWKKrosmoz/bitmap/Preview.jpg", 
+        "creationDate" : "10/12/2021", 
+        "modificationDate" : "10/12/2021"
     }
 
 ]
