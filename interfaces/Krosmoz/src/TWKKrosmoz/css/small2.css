@@ -364,12 +364,23 @@ orangecenterbold {
 	font-weight: bold;
 	text-align: center;
 }
-
+lightred {
+	font-family: Roboto;
+	font-size: 14;
+	color: #eb0000;
+	text-align: justify;
+}
 red {
 	font-family: Roboto;
 	font-size: 14;
 	color: #eb0000;
 	text-align: justify;
+}
+lightredleft {
+	font-family: Roboto;
+	font-size: 14;
+	color: #eb0000;
+	text-align: left;
 }
 redleft {
 	font-family: Roboto;
@@ -377,11 +388,23 @@ redleft {
 	color: #eb0000;
 	text-align: left;
 }
+lightredright {
+	font-family: Roboto;
+	font-size: 14;
+	color: #eb0000;
+	text-align: right;
+}
 redright {
 	font-family: Roboto;
 	font-size: 14;
 	color: #eb0000;
 	text-align: right;
+}
+lightredcenter {
+	font-family: Roboto;
+	font-size: 14;
+	color: #eb0000;
+	text-align: center
 }
 redcenter {
 	font-family: Roboto;

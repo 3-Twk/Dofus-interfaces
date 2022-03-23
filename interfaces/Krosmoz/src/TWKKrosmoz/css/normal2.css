@@ -204,6 +204,13 @@ orangecentershadow_orange {
 }
 
 /*-------------------- red Style --------------------*/
+lightred {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #FF5C55;
+	text-align: justify;
+}
+
 red {
 	font-family: Roboto;
 	font-size: 16px;
@@ -211,7 +218,9 @@ red {
 	text-align: justify;
 }
 redcenter_red { text-align: center; }
+lightredcenter_lightred { text-align: center; }
 redright_red { text-align: right; }
+lightredright_lightred { text-align: right; }
 redboldcenterwhiteshadow {
 	font-family: Roboto;
 	font-size: 32px;
