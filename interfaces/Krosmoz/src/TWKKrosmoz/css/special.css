@@ -48,9 +48,9 @@ coord {
 
 	shadow-angle: 360;
 	shadow-distance: 0;
-    shadow-blurX: 8;
-    shadow-blurY: 8;
-    shadow-strength: 1.5;
+  shadow-blurX: 8;
+  shadow-blurY: 8;
+  shadow-strength: 1.5;
 
 }
 
@@ -73,6 +73,14 @@ idolsscore {
 robotoboldcenter72 {
 	font-family: RobotoCondensed;
 	font-size: 72px;
+	color: #c7c7c5;
+	font-weight: bold;
+	text-align: center;
+}
+
+robotoboldcenter62 {
+	font-family: RobotoCondensed;
+	font-size: 62px;
 	color: #c7c7c5;
 	font-weight: bold;
 	text-align: center;
@@ -111,20 +119,20 @@ whitebigboldshadow{
 levelup {
 	font-family: GoodyBookletter;
 	font-size: 20px;
-    color: #ededed;
-    text-align: center;
+  color: #ededed;
+  text-align: center;
 }
 
 smallscreen {
 	font-family: Tahoma;
 	font-size: 17px;
-    color: #ffffff;
+  color: #ffffff;
 }
 
 smallscreenleft {
 	font-family: Tahoma;
 	font-size: 17px;
-    color: #ffffff;
+  color: #ffffff;
 	text-align: left;
 }
 
@@ -174,6 +182,14 @@ shopoldprice {
 	color: #737373;
 	text-align: justify;
 	font-weight: normal;
+}
+
+rewardbonus {
+	font-family: Roboto;
+	font-size: 11;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
 }
 
 /*-------------------- niveaux de zone sur la map --------------------*/
