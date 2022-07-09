@@ -75,6 +75,19 @@
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/tacticmods/Light/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "10/12/2021", 
         "modificationDate" : "10/12/2021"
+    },
+	
+	{ 
+        "author" : "TWK", 
+        "name" : "Kanojedo_TWK", 
+        "keyWords" : "kanojedo, interface", 
+        "version" : "1.0.0", 
+        "dofusVersion" : "2.64", 
+        "description" : "Un thème simpliste basé sur le mode tactique", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/Kanojedo/TWKKanojedo.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/Kanojedo/src/TWKKanojedo/bitmap/Preview.jpg", 
+        "creationDate" : "09/07/2022", 
+        "modificationDate" : "09/07/2022" 
     }
 
 ]
