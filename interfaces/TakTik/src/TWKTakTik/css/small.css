@@ -341,6 +341,13 @@ brakmar {
 	text-align: left;
 }
 
+lightredcenter {
+	font-family: Tahoma;
+	font-size: 17px;
+	color: #FF5C55;
+	text-align: center;
+}
+
 /* Classe utilisé dans les popups pour centrer les messages d'erreur [css de base: brakmar] */
 redcenter {
 	font-family: Tahoma;

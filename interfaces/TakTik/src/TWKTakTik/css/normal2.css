@@ -42,6 +42,12 @@ shadowedcenter_center {
     shadow-blurX: 3;
     shadow-blurY: 3;
 }
+
+whiteboldcenter_bold {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 20px;
+}
 /*-------------------- disabled Style --------------------*/
 disabledboldcenter_p {
 	color: #595959;
@@ -207,6 +213,13 @@ orangecentershadow_orange {
 }
 
 /*-------------------- red Style --------------------*/
+lightred {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #FF5C55;
+	text-align: justify;
+}
+
 red {
 	font-family: Roboto;
 	font-size: 16px;
@@ -214,7 +227,9 @@ red {
 	text-align: justify;
 }
 redcenter_red { text-align: center; }
+lightredcenter_lightred { text-align: center; }
 redright_red { text-align: right; }
+lightredright_lightred { text-align: right; }
 redboldcenterwhiteshadow {
 	font-family: Roboto;
 	font-size: 32px;

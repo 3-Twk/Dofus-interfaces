@@ -269,3 +269,10 @@ spellZone {
 	margin-right: 75;
 	text-align: left;
 }
+
+.valueLineWithIcon {
+	font-family: Roboto;
+	font-size: 15;
+	color: #e3e3e3;
+	margin-right: 126;
+}
