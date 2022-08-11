@@ -88,6 +88,19 @@
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/tacticmods/Light/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "10/12/2021", 
         "modificationDate" : "10/12/2021"
+    },
+	
+	{ 
+        "author" : "TWK", 
+        "name" : "Krosmoz_TWK__Tactimod_contrast", 
+        "keyWords" : "krosmoz, tactique, contrast", 
+        "version" : "tacticmodcontrast", 
+        "dofusVersion" : "2.64", 
+        "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Change le mode tactique par un mode contraste", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/tacticmods/Contrast/TWKKrosmoz.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/tacticmods/Contrast/src/TWKKrosmoz/bitmap/Preview.jpg", 
+        "creationDate" : "11/08/2022", 
+        "modificationDate" : "11/08/2022"
     }
 
 ]
