@@ -15,7 +15,7 @@
 	{ 
         "author" : "TWK", 
         "name" : "Krosmoz_TWK__Xelor", 
-        "keyWords" : "krosmoz, variante, xelor", 
+        "keyWords" : "krosmoz, variante", 
         "version" : "xelor", 
         "dofusVersion" : "2.64", 
         "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Ajoute des éléments 'Xélor' au thème Krosmoz", 
@@ -28,7 +28,7 @@
 	{ 
         "author" : "TWK", 
         "name" : "Krosmoz_TWK__Sacrieur", 
-        "keyWords" : "krosmoz, variante, sacrieur", 
+        "keyWords" : "krosmoz, variante", 
         "version" : "sacrieur", 
         "dofusVersion" : "2.64", 
         "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Ajoute des éléments 'Sacrieur' au thème Krosmoz", 
@@ -41,7 +41,7 @@
 	{ 
         "author" : "TWK", 
         "name" : "Krosmoz_TWK__Bonta", 
-        "keyWords" : "krosmoz, variante, bonta", 
+        "keyWords" : "krosmoz, variante", 
         "version" : "bonta", 
         "dofusVersion" : "2.64", 
         "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Ajoute des éléments 'Bontarien' au thème Krosmoz", 
@@ -54,7 +54,7 @@
 	{ 
         "author" : "TWK", 
         "name" : "Krosmoz_TWK__Brakmar", 
-        "keyWords" : "krosmoz, variante, brakmar", 
+        "keyWords" : "krosmoz, variante", 
         "version" : "brakmar", 
         "dofusVersion" : "2.64", 
         "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Ajoute des éléments 'Brakmarien' au thème Krosmoz", 
@@ -67,7 +67,7 @@
 	{ 
         "author" : "TWK", 
         "name" : "Krosmoz_TWK__Tactimod_dark", 
-        "keyWords" : "krosmoz, tactique, dark", 
+        "keyWords" : "krosmoz, tactique", 
         "version" : "tacticmoddark", 
         "dofusVersion" : "2.64", 
         "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Change le mode tactique par un mode dark", 
@@ -80,7 +80,7 @@
 	{ 
         "author" : "TWK", 
         "name" : "Krosmoz_TWK__Tactimod_light", 
-        "keyWords" : "krosmoz, tactique, light", 
+        "keyWords" : "krosmoz, tactique", 
         "version" : "tacticmodlight", 
         "dofusVersion" : "2.64", 
         "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Change le mode tactique par un mode light", 
@@ -93,7 +93,7 @@
 	{ 
         "author" : "TWK", 
         "name" : "Krosmoz_TWK__Tactimod_contrast", 
-        "keyWords" : "krosmoz, tactique, contrast", 
+        "keyWords" : "krosmoz, tactique", 
         "version" : "tacticmodcontrast", 
         "dofusVersion" : "2.64", 
         "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Change le mode tactique par un mode contraste", 
