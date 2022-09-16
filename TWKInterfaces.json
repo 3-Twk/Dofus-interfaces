@@ -40,19 +40,6 @@
 	
 	{ 
         "author" : "TWK", 
-        "name" : "Krosmoz_TWK__Huppermage", 
-        "keyWords" : "krosmoz, variante", 
-        "version" : "huppermage", 
-        "dofusVersion" : "2.65", 
-        "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Ajoute des éléments 'Huppermage' au thème Krosmoz", 
-        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Huppermage/TWKKrosmoz.zip", 
-        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Huppermage/src/TWKKrosmoz/bitmap/Preview.jpg", 
-        "creationDate" : "08/09/2022", 
-        "modificationDate" : "08/09/2022" 
-    },
-	
-	{ 
-        "author" : "TWK", 
         "name" : "Krosmoz_TWK__Bonta", 
         "keyWords" : "krosmoz, variante", 
         "version" : "bonta", 
