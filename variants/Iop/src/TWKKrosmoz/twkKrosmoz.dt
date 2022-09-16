@@ -1,11 +1,11 @@
 ﻿<theme>
     <name>Krosmoz_TWK</name>
     <skinType>1</skinType>
-    <description>Theme inspire du Krosmoz. Des variantes peuvent etre ajoutees a ce theme</description>
+    <description>ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Ajoute des éléments 'Iop' au thème Krosmoz</description>
     <previewUri>Preview.jpg</previewUri>
   	<author>TWK</author>
-  	<version>1.3.1</version>
+  	<version>iop</version>
   	<dofusVersion>2.65</dofusVersion>
-    <creationDate>01/11/2021</creationDate>
+    <creationDate>17/09/2022</creationDate>
     <modificationDate>17/09/2022</modificationDate>
 </theme>
