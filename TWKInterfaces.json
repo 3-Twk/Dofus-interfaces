@@ -53,6 +53,19 @@
 	
 	{ 
         "author" : "TWK", 
+        "name" : "Krosmoz_TWK__Iop", 
+        "keyWords" : "krosmoz, variante", 
+        "version" : "iop", 
+        "dofusVersion" : "2.65", 
+        "description" : "ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Ajoute des éléments 'Iop' au thème Krosmoz", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Iop/TWKKrosmoz.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Iop/src/TWKKrosmoz/bitmap/Preview.jpg", 
+        "creationDate" : "17/09/2022", 
+        "modificationDate" : "14/10/2022" 
+    },
+	
+	{ 
+        "author" : "TWK", 
         "name" : "Krosmoz_TWK__Bonta", 
         "keyWords" : "krosmoz, variante", 
         "version" : "bonta", 
