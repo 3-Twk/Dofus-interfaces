@@ -1,0 +1,17 @@
+[ 
+
+	{ 
+        "author" : "TWK", 
+        "name" : "Krosmoz_TWK__Moustache", 
+        "keyWords" : "krosmoz, variante", 
+        "version" : "moustache", 
+        "dofusVersion" : "2.65", 
+        "description" : "CODE MOUSTACHE! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante.", 
+        "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Phallen/TWKKrosmoz.zip", 
+        "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Phallen/src/TWKKrosmoz/bitmap/Preview.jpg", 
+        "creationDate" : "04/11/2022", 
+        "modificationDate" : "11/11/2022" 
+    },
+
+
+]
