@@ -4,8 +4,8 @@
     <description>ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Change le mode tactique par un mode dark</description>
     <previewUri>Preview.jpg</previewUri>
   	<author>TWK</author>
-  	<version>tacticmoddark</version>
-  	<dofusVersion>2.62</dofusVersion>
+	<version>1.4.0</version>
+  	<dofusVersion>2.66</dofusVersion>
     <creationDate>10/12/2021</creationDate>
     <modificationDate>10/12/2021</modificationDate>
 </theme>

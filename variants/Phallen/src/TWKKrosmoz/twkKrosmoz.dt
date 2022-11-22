@@ -4,8 +4,8 @@
     <description>CODE MOUSTACHE Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. CODE MOUSTACHE</description>
     <previewUri>Preview.jpg</previewUri>
   	<author>TWK</author>
-  	<version>moustache</version>
-  	<dofusVersion>2.65</dofusVersion>
+  	<version>1.4.0</version>
+  	<dofusVersion>2.66</dofusVersion>
     <creationDate>04/11/2022</creationDate>
-    <modificationDate>10/11/2022</modificationDate>
+    <modificationDate>22/11/2022</modificationDate>
 </theme>

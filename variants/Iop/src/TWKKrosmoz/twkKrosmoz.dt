@@ -4,8 +4,8 @@
     <description>ATTENTION! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante. Ajoute des éléments 'Iop' au thème Krosmoz</description>
     <previewUri>Preview.jpg</previewUri>
   	<author>TWK</author>
-  	<version>iop</version>
-  	<dofusVersion>2.65</dofusVersion>
+  	<version>1.4.0</version>
+  	<dofusVersion>2.66</dofusVersion>
     <creationDate>17/09/2022</creationDate>
     <modificationDate>14/10/2022</modificationDate>
 </theme>
