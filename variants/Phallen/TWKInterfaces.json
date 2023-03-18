@@ -3,21 +3,21 @@
         "author" : "TWK", 
         "name" : "Krosmoz_TWK", 
         "keyWords" : "krosmoz, interface", 
-        "version" : "1.4.0", 
-        "dofusVersion" : "2.66", 
+        "version" : "1.5.0", 
+        "dofusVersion" : "2.67", 
         "description" : "Theme inspire du Krosmoz. Des variantes peuvent etre ajoutees a ce theme", 
         "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/Krosmoz/TWKKrosmoz.zip", 
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/interfaces/Krosmoz/src/TWKKrosmoz/bitmap/Preview.jpg", 
         "creationDate" : "01/11/2021", 
-        "modificationDate" : "22/11/2022" 
+        "modificationDate" : "18/03/2023" 
     },
 
 	{ 
         "author" : "TWK", 
         "name" : "Krosmoz_TWK__Moustache", 
         "keyWords" : "krosmoz, variante", 
-        "version" : "1.4.0", 
-        "dofusVersion" : "2.66", 
+        "version" : "1.5.0", 
+        "dofusVersion" : "2.67", 
         "description" : "CODE MOUSTACHE! Installer d'abord le theme 'Krosmoz' avant d'appliquer cette variante.", 
         "url" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Phallen/TWKKrosmoz.zip", 
         "previewUrl" : "https://github.com/3-twk/Dofus-interfaces/raw/main/variants/Phallen/src/TWKKrosmoz/bitmap/Preview.jpg", 
